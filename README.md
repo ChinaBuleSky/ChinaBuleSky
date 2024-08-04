@@ -22,7 +22,7 @@
 </a>
  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
 </p>
-<iframe src="https://afdian.com/leaflet?slug={1}" width="640" scrolling="no" height="200" frameborder="0"></iframe><iframe src="https://afdian.com/leaflet?slug=mxtt233" width="640" scrolling="no" height="200" frameborder="0"></iframe>
+<iframe src="https://afdian.com/leaflet?slug=mxtt233" width="640" scrolling="no" height="200" frameborder="0"></iframe><iframe src="https://afdian.com/leaflet?slug=mxtt233" width="640" scrolling="no" height="200" frameborder="0"></iframe>
 
 
 ![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)
